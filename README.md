@@ -31,7 +31,7 @@ This is a fully-featured Telegram bot that can automatically reply to messages i
 
 ### 1. Clone this repo
 
-git clone https://github.com/your-username/telegram-auto-reply-bot.git
+git clone https://github.com/TzyCode-Ai/Bot-Auto-Reply-With-Gemini
 cd telegram-auto-reply-bot
 2. Install dependencies
 pip install -r requirements.txt
