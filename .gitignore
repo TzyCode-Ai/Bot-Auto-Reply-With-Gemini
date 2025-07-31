@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Telethon session files
+sessions/
+*.session
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
